@@ -10,12 +10,12 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "233256793164"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "Blue"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -50,7 +50,7 @@
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": ""
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
